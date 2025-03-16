@@ -12,3 +12,4 @@ cloudinary
 python-decouple
 
 reportlab  
+gunicorn
